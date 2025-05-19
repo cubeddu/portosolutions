@@ -29,10 +29,6 @@ const faqItems: FAQItem[] = [
     answer: 'We can mount TVs of virtually any size. For very large TVs (over 85"), we recommend our Premium or Custom mounting solutions which include heavy-duty hardware and additional installation measures for safety and security.'
   },
   {
-    question: 'Do you offer a warranty on your installations?',
-    answer: 'Yes, all our installations come with a warranty. The Standard package includes a 1-year warranty, Premium includes 3 years, and Custom includes 5 years. Our warranty covers any issues with the mounting hardware or installation.'
-  },
-  {
     question: 'What areas do you service?',
     answer: 'We currently service the greater metropolitan area and surrounding suburbs within a 50-mile radius. For locations outside our standard service area, please contact us for availability and any additional travel fees.'
   },

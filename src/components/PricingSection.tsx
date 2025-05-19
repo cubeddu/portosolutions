@@ -23,7 +23,6 @@ const pricingPlans: PricingPlan[] = [
       'Basic cable management',
       'TV leveling and secure installation',
       'Equipment setup and testing',
-      '1-year installation warranty'
     ],
   },
   {
@@ -38,7 +37,6 @@ const pricingPlans: PricingPlan[] = [
       'TV leveling and secure installation',
       'Full connection of all devices',
       'Cable box/console shelf installation',
-      '3-year installation warranty'
     ],
     popular: true,
   },
@@ -54,7 +52,6 @@ const pricingPlans: PricingPlan[] = [
       'Sound system integration',
       'Smart home setup and integration',
       'Articulating/motorized mounts',
-      '5-year installation warranty'
     ],
   },
 ];
