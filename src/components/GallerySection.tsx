@@ -30,7 +30,52 @@ const galleryImages = [
     description: "Weather-resistant mounting for patio entertainment"
   },
   {
-    url: '/image21.jpeg',
+    url: '/image10.jpeg',
+    title: "Modern Apartment Setup",
+    description: "Clean wall mounting with hidden components"
+  },
+  {
+    url: '/image15.jpeg',
+    title: "Living Room TV Installation",
+    description: "65\" OLED mounted above fireplace with concealed wiring"
+  },
+  {
+    url: '/image17.jpeg',
+    title: "Home Theater Setup",
+    description: "85\" 4K TV with surround sound system installation"
+  },
+  {
+    url: '/image18.jpeg',
+    title: "Bedroom TV Mount",
+    description: "Articulating mount for perfect viewing from any angle"
+  },
+  {
+    url: '/image19.jpeg',
+    title: "Office Conference Room",
+    description: "Dual display setup with integrated cable management"
+  },
+  {
+    url: '/image20.jpeg',
+    title: "Outdoor TV Installation",
+    description: "Weather-resistant mounting for patio entertainment"
+  },
+  {
+    url: '/image25.jpeg',
+    title: "Modern Apartment Setup",
+    description: "Clean wall mounting with hidden components"
+  },
+  {
+    url: '/image26.jpeg',
+    title: "Office Conference Room",
+    description: "Dual display setup with integrated cable management"
+  },
+  {
+    url: '/image27.jpeg',
+    title: "Outdoor TV Installation",
+    description: "Weather-resistant mounting for patio entertainment"
+  },
+  {
+    url: '/image28.jpeg',
     title: "Modern Apartment Setup",
     description: "Clean wall mounting with hidden components"
   }
@@ -99,7 +144,7 @@ const GallerySection: React.FC = () => {
                 />
                 <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-30 transition-all duration-300"></div>
                 <div className="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/80 to-transparent">
-                  <h3 className="text-white font-medium text-lg">{image.title}</h3>
+                  {/* <h3 className="text-white font-medium text-lg">{image.title}</h3> */}
                 </div>
               </div>
             </motion.div>

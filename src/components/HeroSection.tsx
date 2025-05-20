@@ -55,7 +55,7 @@ const HeroSection: React.FC = () => {
           
           <div className="mt-12 flex items-center space-x-8">
             <div className="flex items-center">
-              <div className="text-accent-400 font-display font-bold text-4xl">1000+</div>
+              <div className="text-accent-400 font-display font-bold text-4xl">100+</div>
               <div className="ml-2 text-gray-300">TVs Mounted</div>
             </div>
             <div className="flex items-center">
